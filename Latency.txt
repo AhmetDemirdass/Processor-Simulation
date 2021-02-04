@@ -1,0 +1,6 @@
+Latency for P4 is 10
+Latency for P6 is 10
+Latency for P2 is 90
+Latency for P5 is 80
+Latency for P1 is 170
+Latency for P3 is 180

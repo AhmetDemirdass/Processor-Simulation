@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1573668349 source:c:\users\ahmet\desktop\4_sinif_1_d÷nem\data_structures\programming\hw1\prcessorsimulation\main.cpp
+	<iostream>
+	<stdlib.h>
+	"stack.h"
+	"queue.h"
+	<fstream>
+
+1573609708 c:\users\ahmet\desktop\4_sinif_1_d÷nem\data_structures\programming\hw1\prcessorsimulation\stack.h
+	<iostream>
+	<stdlib.h>
+
+1573597264 c:\users\ahmet\desktop\4_sinif_1_d÷nem\data_structures\programming\hw1\prcessorsimulation\queue.h
+	<iostream>
+	<stdlib.h>
+
